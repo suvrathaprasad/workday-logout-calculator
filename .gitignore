@@ -8,4 +8,5 @@ venv/
 
 # Editor and OS files
 .DS_Store
+*.swp
 .vscode/
